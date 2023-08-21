@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.exe
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.deps.json
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.runtimeconfig.json
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.dll
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.pdb
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.dll
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\obj\Debug\net7.0\refint\ExaminationSystem.dll
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.pdb
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\dell\Desktop\Examination System\ExaminationSystem\obj\Debug\net7.0\ref\ExaminationSystem.dll
